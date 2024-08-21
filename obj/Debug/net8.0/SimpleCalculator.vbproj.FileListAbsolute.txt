@@ -1,0 +1,14 @@
+C:\Users\Boyd\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.exe
+C:\Users\Boyd\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.deps.json
+C:\Users\Boyd\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.runtimeconfig.json
+C:\Users\Boyd\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.dll
+C:\Users\Boyd\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.pdb
+C:\Users\Boyd\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boyd\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Boyd\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.AssemblyInfo.vb
+C:\Users\Boyd\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Boyd\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.dll
+C:\Users\Boyd\SimpleCalculator\obj\Debug\net8.0\refint\SimpleCalculator.dll
+C:\Users\Boyd\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.pdb
+C:\Users\Boyd\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.genruntimeconfig.cache
+C:\Users\Boyd\SimpleCalculator\obj\Debug\net8.0\ref\SimpleCalculator.dll
